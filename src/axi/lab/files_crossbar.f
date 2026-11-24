@@ -1,0 +1,10 @@
+../rtl/taxi_axi_if.sv
+../rtl/taxi_axi_register_wr.sv
+../rtl/taxi_axi_register_rd.sv
+../rtl/taxi_axi_crossbar_addr.sv
+../rtl/taxi_axi_crossbar_wr.sv
+../rtl/taxi_axi_crossbar_rd.sv
+../rtl/taxi_axi_crossbar.sv
+../lib/taxi/src/prim/rtl/taxi_arbiter.sv
+../lib/taxi/src/prim/rtl/taxi_penc.sv
+tb_crossbar_addr.sv
